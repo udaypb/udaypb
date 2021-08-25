@@ -5,10 +5,11 @@ I am a software engineer with nuanced experience in back-end and scalable applic
 
 
 - 🔭 I’m currently working on ✨"**Instant Note**"✨ - which is intended to be a blazing fast note taking app available via a browser. (🤐 it has secret assessibility features)
-- 🌱 I’m currently learning to architecture 
+- 🌱 I’m currently learning how to live life better. 
 - 💬 Ask me about how modern applications leverage AWS to achieve scalability and speed.
 - 📫 How to reach me: 📧 uday.pb26@gmail.com, linkedin.com/in/udaypb
-- ⚡ Fun fact: I use rubber duck debugging technique for almost every problem I ever face. 
+- 📚 I like writing: https://udaypb.medium.com/
+- ⚡ Fun fact: I use rubber duck debugging technique for almost every problem I ever face.
 
 ![Uday's Github stats](https://github-readme-stats.vercel.app/api?username=udaypb&show_icons=true&hide_border=true) 
 <!--
