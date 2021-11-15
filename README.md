@@ -4,7 +4,7 @@
 I am a software engineer with nuanced experience in back-end and scalable applications development. 
 
 
-- 🔭 I’m currently working on ✨"**Instant Note**"✨ - which is intended to be a blazing fast note taking app available via a browser. (🤐 it has secret assessibility features)
+- 🔭 I’m currently working on ✨"**Cook diary**"✨ - which is meant to be an app that can help you cook. (🤐 it has secret assessibility features)
 - 🌱 I’m currently learning how to live life better. 
 - 💬 Ask me about how modern applications leverage AWS to achieve scalability and speed.
 - 📫 How to reach me: 📧 uday.pb26@gmail.com, linkedin.com/in/udaypb
